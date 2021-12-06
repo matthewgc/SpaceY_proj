@@ -2,6 +2,9 @@ Data Collection API Notebook:  https://dataplatform.cloud.ibm.com/analytics/note
 Web Scraping Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/a63848f4-a076-4a6b-a31d-657d96ff3f2b/view?access_token=43a0ab57712556381755deae9763fba8019e02ea260f323563915fb53c3636bb
 Data Wrangling Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/96a64526-8570-43c9-87be-a8236d4072d2/view?access_token=31ffadf4d1d509c950e38b70caf32720e98df93c0c4119dffac9409e408c3b1c
 EDA with Visualization Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1086628e-5d58-4d98-83fb-6e4e3f259f08/view?access_token=0565896c54bccc1d1aea55d3dbdd9fb37bda228bb2e31d4bdbb9c809731e0cb7
+EDA with SQL Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f53dc952-20cd-4586-b900-c6087cb50d16/view?access_token=c467db3521ceefe88def42e806e68710ac10cbbd1f4b51ab756777aa05f27d90
+Interactive Map with Folium Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/df463b8e-bf45-4970-a4a7-63bbb9d85c3c/view?access_token=d1768cd5d388cf697ff3b902a13177f7a685a12dbaa4b9123192dcefe2b6c06f
+Machine Learning Prediction Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e4786a38-0fe5-42c0-bf49-ec875aed2191/view?access_token=0640ef0e24c66d792402a907055d81dd5aa5e7210516325375cce76cc5a6fe73
 
 
 
