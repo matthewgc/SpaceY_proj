@@ -1,6 +1,7 @@
 Data Collection API Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ea59b49b-38b9-43b9-8b1f-6f8753723642/view?access_token=dd9af4b4b4e4c0adc5c3fba921ac1f3e1d521296dadaffb0fd95f98451b05cb3
 Web Scraping Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/a63848f4-a076-4a6b-a31d-657d96ff3f2b/view?access_token=43a0ab57712556381755deae9763fba8019e02ea260f323563915fb53c3636bb
 Data Wrangling Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/96a64526-8570-43c9-87be-a8236d4072d2/view?access_token=31ffadf4d1d509c950e38b70caf32720e98df93c0c4119dffac9409e408c3b1c
+EDA with Visualization Notebook:  https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1086628e-5d58-4d98-83fb-6e4e3f259f08/view?access_token=0565896c54bccc1d1aea55d3dbdd9fb37bda228bb2e31d4bdbb9c809731e0cb7
 
 
 
